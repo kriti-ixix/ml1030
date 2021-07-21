@@ -1,0 +1,22 @@
+
+Count Vectorisation
+
+s1 = "London Paris London Rome Rome"
+s2 = "Paris London Rome Paris Paris"
+
+
+Words:
+London -> 0
+Paris -> 1
+Rome -> 2
+
+
+    London      Paris       Rome
+
+s1      2          1         2           
+
+s2      1           3       1
+
+
+[[2 1   2],
+[1  3   1]]
