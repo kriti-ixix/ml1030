@@ -1,0 +1,29 @@
+message1 = "Hey, good morning! How are you?"
+message2 = "Congratulations! You have won the lottery! Call XXXXXXXXXX to claim your prize!"
+
+
+Vectorisation:
+Hey 0
+good 1
+morning 2
+how 3
+are 4
+you 5
+Congratulations 6
+have 7
+won 8
+the 9
+lottery 10
+Call 11
+XXXXXXXXXX 12
+to 13
+claim 14
+your 15
+prize 16
+
+
+Matrix:
+    0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16
+    
+m1  1   1   1   1   1   1   0   0   0   0   0   0   0   0   0   0   0  
+m2  0   0   0   0   0   1   1   1   1   1   1   1   1   1   1   1   1
